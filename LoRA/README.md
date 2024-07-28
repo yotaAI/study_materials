@@ -15,6 +15,8 @@
 
 📝 Paper  : [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)
 
+🎥 For better understanding I took help from : [LoRA: Low-Rank Adaptation of Large Language Models - Explained visually + PyTorch code from scratch](https://youtu.be/PXWYUTMt-AU?si=c6eLTWErwkf67R5T)
+
 
 ## 👨🏻‍🎨 Implementation :
 
