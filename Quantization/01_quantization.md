@@ -1,7 +1,7 @@
 ### **The file Contains:
-- [Quantization Types](#-Quantization-Types)
-- [Symmetric Quantization](#-Quantization-Types)
-- [Asymmetric Quantization](#-Asymmetric-Quantization)
+- [Quantization Types](#quantization-types)
+- [Symmetric Quantization]
+- [Asymmetric Quantization](#asymmetric-quantization)
 
 # Quantization Types
 ### **1. Based on Precision Levels**
