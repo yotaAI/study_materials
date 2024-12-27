@@ -1,7 +1,7 @@
 ### The file Contains:
 - [What is Quantization ?](#what-is-quantization?)
-- [Key Concept](###quantization-key-concepts)
-- [Purpose](###quantization-process)
+- [Key Concept](#quantization-key-concepts)
+- [Purpose](#quantization-process)
 - [Advantage](#advantages-of-quantization)
 - [Quantization Types](#quantization-types)
 - [Symmetric Quantization](#symmetric-quantization)
