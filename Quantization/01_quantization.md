@@ -1,4 +1,4 @@
-### **The file Contains:
+### The file Contains:
 - [Quantization Types](#quantization-types)
 - [Symmetric Quantization](#symmetric-quantization)
 - [Asymmetric Quantization](#asymmetric-quantization)
