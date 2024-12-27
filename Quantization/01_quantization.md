@@ -1,6 +1,6 @@
 ### **The file Contains:
 - [Quantization Types](#quantization-types)
-- [Symmetric Quantization]
+- [Symmetric Quantization](#symmetric-quantization)
 - [Asymmetric Quantization](#asymmetric-quantization)
 
 # Quantization Types
