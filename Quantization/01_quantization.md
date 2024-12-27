@@ -2,7 +2,7 @@
 - [What is Quantization ?](#what-is-quantization?)
 - [Key Concept](###quantization-key-concepts)
 - [Purpose](###quantization-process)
-- [Advantage](###advantages-of-quantization)
+- [Advantage](#advantages-of-quantization)
 - [Quantization Types](#quantization-types)
 - [Symmetric Quantization](#symmetric-quantization)
 - [Asymmetric Quantization](#asymmetric-quantization)
