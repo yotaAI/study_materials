@@ -1,3 +1,8 @@
+### **The file Contains:
+- [Quantization Types](#-Quantization-Types)
+- [Symmetric Quantization](#-Quantization-Types)
+- [Asymmetric Quantization](#-Asymmetric-Quantization)
+
 # Quantization Types
 ### **1. Based on Precision Levels**
 #### **a. Uniform Quantization**
@@ -262,7 +267,7 @@ print("Dequantized Tensor:\n", dequantized_tensor)
    - Deploy lightweight AI models on mobile and embedded devices.
 ---
 
-# Asymmetric  Quantization
+# Asymmetric Quantization
 
 
 **Asymmetric Quantization** is a quantization method that allows the quantization range to be shifted, making it suitable for data that is not centered around zero. This flexibility makes it particularly effective for handling activations or weights with non-symmetric distributions.
