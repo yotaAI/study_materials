@@ -158,21 +158,6 @@
 - Can you distill from an ensemble? How?
 
 ---
-
-## 🔹 Core Machine Learning
-
-### **1. What are the assumptions behind linear regression?**
-**Follow-ups:**
-- What happens if the assumptions are violated?
-- How do you test for multicollinearity?
-- How does regularization (like Ridge or Lasso) help here?
-
-### **2. What is the difference between generative and discriminative models?**
-**Follow-ups:**
-- Where would you prefer using each?
-- Can you give examples from NLP or vision?
-- How would you convert a generative model into a discriminative one?
-
 ## 🔹 Core Machine Learning Questions (With Follow-Ups)
 
 ---
